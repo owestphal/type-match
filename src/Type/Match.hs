@@ -13,6 +13,7 @@ module Type.Match (
   inCaseOf, inCaseOf',
   fallbackCase, fallbackCase',
   inCaseOfE, inCaseOfE',
+  inCaseOfApp, inCaseOfApp',
   Case,
   ) where
 
